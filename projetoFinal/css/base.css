@@ -1,0 +1,73 @@
+.container {
+    width: 96%;
+    margin: 0 auto;
+}
+
+.field {
+    margin-bottom: 16px;
+}
+
+.field label {
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #706F6F;
+}
+
+
+
+.field .field-input {
+    display: block;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px ;
+    border:2px solid #706F6F;
+}
+  
+
+.field-input{
+    outline-style: none;
+}
+
+
+
+
+.button{
+   
+    display: inline-block;
+    padding: 25px 50px;
+    margin: 5px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 1px 1px 5px rgb(173, 146, 146);
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: #706F6F;
+   
+}
+
+.button-form{
+    padding: 25px 50px;
+    margin: 5px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1px rgb(173, 146, 146);
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: #706F6F;
+    cursor: pointer;
+    border:2px solid #706F6F;
+}
+
+
+
+
+
+
+.button:hover{
+    background-color: rgba(255, 255, 255, 0.726);
+    color: #fff;
+}
